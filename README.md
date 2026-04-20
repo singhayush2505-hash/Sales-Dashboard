@@ -1,6 +1,6 @@
 # 📊 Power BI Sales Dashboard
 
-![Dashboard Preview]
+Dashboard Preview
 
 ## 🔍 Overview
 
@@ -17,15 +17,15 @@ This project showcases an interactive Power BI dashboard built using the Global 
 
 🔹 Main Dashboard
 
-![Main]
+Main
 
 🔹 Product Detail Page
 
-![Detail]
+Detail
 
 🔹 Sales Insights
 
-![Chart]
+Chart
 
 ## 📈 Key Insights
 
