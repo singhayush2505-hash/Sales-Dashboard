@@ -15,15 +15,15 @@ This project showcases an interactive Power BI dashboard built using the Global 
 
 ## 📷 Dashboard Screens
 
-### 🔹 Main Dashboard
+🔹 Main Dashboard
 
 ![Main](dashboard-main.png)
 
-### 🔹 Product Detail Page
+🔹 Product Detail Page
 
 ![Detail](product-detail.png)
 
-### 🔹 Sales Insights
+🔹 Sales Insights
 
 ![Chart](sales-chart.png)
 
